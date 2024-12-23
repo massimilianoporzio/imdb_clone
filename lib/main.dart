@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:hive/hive.dart';
 import 'package:hive_flutter/adapters.dart';
 import 'package:imdb_clone/app/imdb_clone_app.dart';
 import 'package:imdb_clone/core/di/di_container.dart';

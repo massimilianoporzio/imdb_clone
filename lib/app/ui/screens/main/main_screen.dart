@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:imdb_clone/app/library/resource/_colors.dart';
 import 'package:imdb_clone/app/ui/screens/main/main_screen_viewmodel.dart';
 import 'package:imdb_clone/app/ui/screens/main/widgets/bottom_navigation_bar.dart';
 import 'package:imdb_clone/features/home/presentation/pages/home_screen.dart';
